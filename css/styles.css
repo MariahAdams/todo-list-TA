@@ -10,3 +10,11 @@ body {
 h1 {
   color: steelblue;
 }
+
+ul {
+  text-align: left;
+}
+
+.overdue {
+  color: red;
+}
